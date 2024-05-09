@@ -1,0 +1,21 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+  }
+
+  .cards {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+  }
+
+  h6{
+    color: black;
+  }
+H1{
+  color: red;
+  
+}
+  
